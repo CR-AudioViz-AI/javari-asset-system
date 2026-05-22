@@ -2,7 +2,7 @@
 import type { Metadata } from 'next'
 export const dynamic = 'force-dynamic'
 export const metadata: Metadata = {
-  title: 'Javari Asset System',
+  title: 'Javari Asset System | CR AudioViz AI — EIN 39-3646201',
   description: 'Javari platform asset management system',
 }
 export default function RootLayout({ children }: { children: React.ReactNode }) {
